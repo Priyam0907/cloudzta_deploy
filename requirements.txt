@@ -1,4 +1,5 @@
-setuptools
+python==3.8.20
+setuptools==75.1.0
 
 numpy==1.24.4
 
